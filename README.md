@@ -1,7 +1,7 @@
 <h1 align="center"> Card de profile preview</h1>
 
 <p align="center">
-Projeto frontend realizado através dos desafios do site <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa">Frontend Mentor <br/>
+Projeto frontend realizado através dos desafios do site <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">Frontend Mentor <br/>
 </p>
 
 <p align="center">
